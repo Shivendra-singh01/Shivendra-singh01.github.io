@@ -14,7 +14,7 @@ Plain HTML and CSS. No build step, no JavaScript, no third-party requests.
 - [ ] Favicon: included and linked on every page
 - [ ] No "Made with" badge: none exists in this code. Check your host does not inject one (some free plans do)
 - [ ] Privacy policy and terms pages: included. Read them once and confirm they match your situation
-- [ ] Optional: add your email, resume PDF, education and experience once you have decided what to publish
+- [ ] Optional: add a resume PDF link (your resume includes a phone number, so decide whether to publish it)
 
 ## Custom domain
 GitHub Pages: push these files to a repo, enable Pages, add your domain under Settings > Pages, then create the DNS records GitHub shows you.
